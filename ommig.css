@@ -6,7 +6,7 @@
 header
 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
-    height: 15vh;
+    height: 12vh;
     background-size: 10%;
     background-position:center;
 }
@@ -37,9 +37,15 @@ header
 {
     background-color: rgba(42, 155, 236);
 }
+
+.main-nav li.active a:hover
+{
+    color: black;
+}
+
 .main-nav li a:hover
 {
-    background-color: rgb(39, 140, 212);
+    color: rgba(42, 155, 236);
 }
 
 .link1name
@@ -51,7 +57,6 @@ header
     padding-right: 2%;
     color: white;
 }
-
 
 
 

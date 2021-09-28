@@ -1,0 +1,184 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
+    height: 12vh;
+    background-size: 10%;
+    background-position:center;
+}
+
+.main-nav
+{
+    float:left;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.main-nav li
+{
+    display:inline-block;
+}
+
+.main-nav li a
+{
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding: 3px 5px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.main-nav li.active a
+{
+    background-color: rgba(42, 155, 236);
+}
+
+.main-nav li.active a:hover
+{
+    color: black;
+}
+
+.main-nav li a:hover
+{
+    color: rgba(42, 155, 236);
+}
+
+.link1name
+{
+    float: right;
+    font-family: 'Times New Roman', Times, serif
+    font-size:30px;
+    padding-top: 2.8%;
+    padding-right: 2%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.row1erhvervserfaring
+{
+    background-color: rgba(240, 239, 239, 0.466);
+    height: 95vh;
+    margin-top: 1.5px;
+}
+
+.h2erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    padding-top: 25px;
+}
+.p1erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 17px;
+}
+.p2erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p3erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p4erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p5erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p6erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p7erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p8erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p9erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p10erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p11erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p12erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p13erhvervserfaring
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p14erhvervserfaring
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}

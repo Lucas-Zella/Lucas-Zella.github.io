@@ -6,7 +6,7 @@
 header
 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
-    height: 15vh;
+    height: 12vh;
     background-size: 10%;
     background-position:center;
 }
@@ -37,9 +37,15 @@ header
 {
     background-color: rgba(42, 155, 236);
 }
+
+.main-nav li.active a:hover
+{
+    color: black;
+}
+
 .main-nav li a:hover
 {
-    background-color: rgb(39, 140, 212);
+    color: rgba(42, 155, 236);
 }
 
 .link1name
@@ -59,13 +65,125 @@ header
 
 
 
-h3
+.row1uddannelse
 {
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.904);
+    height: 95vh;
+    margin-top: 1.5px;
 }
 
-
-
+.h2uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 25px;
+}
+.p1uddannelse 
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 17px;
+}
+.p2uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p3uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p4uddannelse
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p5uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p6uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p7uddannelse
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p8uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p9uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p10uddannelse
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p11uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p12uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.p13uddannelse
+{
+    color:rgba(42, 155, 236);
+    text-align: center;
+    font-size: 22px;
+    padding-top: 35px;
+}
+.p14uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 10px;
+}
+.p15uddannelse
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
 
 
 
