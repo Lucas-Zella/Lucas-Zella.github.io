@@ -1,0 +1,222 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
+    height: 15vh;
+    background-size: 10%;
+    background-position:center;
+}
+
+.main-nav
+{
+    float:left;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.main-nav li
+{
+    display:inline-block;
+}
+
+.main-nav li a
+{
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding: 3px 5px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.main-nav li.active a
+{
+    background-color: rgba(42, 155, 236);
+}
+.main-nav li a:hover
+{
+    background-color: rgb(39, 140, 212);
+}
+
+.link1name
+{
+    float: right;
+    font-family: 'Times New Roman', Times, serif
+    font-size:30px;
+    padding-top: 2.8%;
+    padding-right: 2%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.yderligereoplysninger
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    font-size: 30px;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+.row2
+{
+
+    margin-top: 2.5%;
+    height: 10vh;
+}
+.mailkontakt
+{
+    margin-left: 23%;
+    padding-top: 7px;
+}
+.telefonkontakt
+{
+    margin-left: 20%;
+    margin-top: -30px;
+}
+.chatkontakt
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+}
+
+
+
+
+
+
+
+.row3
+{
+
+    padding-top: 5px;
+    height: 4vh;  
+}
+.p1
+{
+    margin-left: 23.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style:oblique;
+    margin-bottom: 15px;
+}
+.p4
+{
+    margin-left: 47%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    margin-top: -35px;
+}
+.p7
+{
+    margin-left: 72%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    margin-top: -1.7%;
+}
+
+
+
+
+
+
+
+.row4
+{
+
+    padding-top: 5px;
+    height: 15vh;  
+    border-bottom: solid black;
+    border-width: 1px;
+}
+.p2
+{
+    margin-left: 19%;
+    margin-right: 68%;
+}
+.p3
+{
+    margin-left: 16.6%;
+    margin-right: 66.5%;
+    padding-top: 20px;
+    font-style: oblique;
+    font-size: 18px;
+}
+.p5
+{
+    margin-left: 43%;
+    margin-right: 43%;
+    margin-top: -5.5%;
+}
+.p6
+{
+    margin-left: 44.7%;
+    margin-right: 43%;
+    margin-top: 1.4%;
+    font-style: oblique;
+    font-size: 18px;
+}
+.p8
+{
+    margin-left: 64%;
+    margin-right: 15%;
+    margin-top: -5.5%;
+}
+
+
+.row5
+{
+    background-color:rgba(0, 0, 0, 0.904);
+}
+
+
+
+
+
+.linkedinlogo2
+{
+ padding-left: 44%;
+ padding-bottom: 2px;
+}
+.instagramlogo2
+{
+  padding-top: 20px;
+}
+
+.maps1
+{   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+

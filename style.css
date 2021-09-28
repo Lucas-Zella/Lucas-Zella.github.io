@@ -1,0 +1,129 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
+    height: 12vh;
+    background-size: 10%;
+    background-position:center;
+}
+
+.main-nav
+{
+    float:left;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.main-nav li
+{
+    display:inline-block;
+}
+
+.main-nav li a
+{
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding: 3px 5px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.main-nav li.active a
+{
+    background-color: rgba(42, 155, 236);
+}
+.main-nav li a:hover
+{
+    background-color: rgb(39, 140, 212);
+}
+
+.link1name
+{
+    float: right;
+    font-family: 'Times New Roman', Times, serif
+    font-size:30px;
+    padding-top: 2.8%;
+    padding-right: 2%;
+    color: white;
+}
+
+
+
+
+.minside
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 3%;
+    padding-bottom: 10px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+
+
+.pictureone
+{
+    width: 350px;
+    height: 460px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+
+
+
+.p1
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.p2
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 4px;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.p3
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+.footer1
+{
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+
+.linkedinlogo
+{
+ padding-left: 44%;
+ padding-bottom: 2px;
+ padding-bottom: 27px;
+}
+.instagramlogo
+{
+  padding-right: 40%;
+  padding-top: 17px;
+  padding-bottom: 25px;
+}
+
+

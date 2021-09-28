@@ -1,0 +1,239 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.904),rgba(0, 0, 0, 0.904));
+    height: 15vh;
+    background-size: 10%;
+    background-position:center;
+}
+
+.main-nav
+{
+    float:left;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.main-nav li
+{
+    display:inline-block;
+}
+
+.main-nav li a
+{
+    color: rgb(255, 255, 255);
+    text-decoration:none;
+    padding: 3px 5px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.main-nav li.active a
+{
+    background-color: rgba(42, 155, 236);
+}
+.main-nav li a:hover
+{
+    background-color: rgb(39, 140, 212);
+}
+
+.link1name
+{
+    float: right;
+    font-family: 'Times New Roman', Times, serif
+    font-size:30px;
+    padding-top: 2.8%;
+    padding-right: 2%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.row1
+{
+    margin-right: 50%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.918));
+    margin-top: 50px;
+    height:26vh;
+    margin-left: 30px;
+}
+.ommig
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.p1
+{
+    color: white;
+    text-align:justify;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ikealogo
+{
+    margin-left: 115%;
+    margin-top: -120px;
+}
+
+.brostelogo
+{
+    margin-left: 135%;
+    margin-top: -113px;;
+}
+.cphlogo
+{
+    margin-left: 157%;
+    margin-top: -95px;
+}
+
+
+
+
+
+
+
+
+
+.hjemfør
+{
+    margin-left: 66px;
+    margin-top: 50px;
+}
+
+.hjemefter
+{
+    margin-left: 30px;
+    margin top: 50px;
+}
+
+.row2
+{
+    margin-left: 50%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.918));
+    height:22vh;
+    margin-top: -320px;
+    margin-right: 30px;
+}
+
+.fritid
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 10px;
+}
+.p2
+{
+    color: white;
+    text-align:justify;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+.row3
+{
+    margin-right: 50%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.918));
+    height:22vh;
+    margin-top: 203px;
+    margin-left: 30px;
+}
+.privatliv
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 10px;
+}
+.p3
+{
+    color: white;
+    text-align:justify;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.familie1
+{
+    margin-left: 60%;
+    margin-top: -310px;
+}
+
+
+
+
+
+
+
+
+
+.sanremo1
+{
+    margin-left: 52px;
+    padding-bottom: 20px;
+    margin-top: -130px;
+}
+.sanremo2
+{
+    margin-left: 22px;
+    padding-bottom: 20px;
+    margin-top: -130px;
+}
+
+
+.row4
+{
+    margin-left: 52%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.918));
+    height:22vh;
+    margin-top: -290px;
+    margin-right: 30px;
+}
+.favoritten
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 10px;
+}
+.p4
+{
+    color: white;
+    text-align:justify;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
